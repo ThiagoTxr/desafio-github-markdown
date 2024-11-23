@@ -12,13 +12,13 @@
 ## Desafio
 ### Checklist
 
-- [] Criar uma conta no GitHub 
-- [] Criar um repositório como público e com README.md 
-- [] Adicionar um colaborador ao repositório
-- [] Editar e praticar formatação Markdown
-- [] Fazer um clone do repositório na máquina (por ambas as contas)
-- [] Realização de edção e modificação do README
-- [] Adicionar commits
+- [X] Criar uma conta no GitHub 
+- [X] Criar um repositório como público e com README.md 
+- [X] Adicionar um colaborador ao repositório
+- [X] Editar e praticar formatação Markdown
+- [X] Fazer um clone do repositório na máquina (por ambas as contas)
+- [X] Realização de edição e modificação do README
+- [X] Adicionar commits
 - [] Executar issues / pull requests
 
 ### Tabela dos principais comandos Git
