@@ -22,7 +22,7 @@
 - [X] Executar issues / pull requests
 - [X] Criar uma branch
 - [X] Realizar merge
-- [] Criar chave de autenticação
+- [X] Criar chave de autenticação
 
 ### Tabela dos principais comandos Git
 
