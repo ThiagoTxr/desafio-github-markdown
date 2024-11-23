@@ -19,9 +19,9 @@
 - [X] Fazer um clone do repositório na máquina (por ambas as contas)
 - [X] Realização de edição e modificação do README
 - [X] Adicionar commits
-- [] Executar issues / pull requests
-- [] Criar uma branch
-- [] Realizar merge
+- [X] Executar issues / pull requests
+- [X] Criar uma branch
+- [X] Realizar merge
 - [] Criar chave de autenticação
 
 ### Tabela dos principais comandos Git
